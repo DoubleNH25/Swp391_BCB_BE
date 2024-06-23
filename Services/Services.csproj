@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Accord" Version="3.8.0" />
+		<PackageReference Include="Accord.MachineLearning" Version="3.8.0" />
+		<PackageReference Include="Accord.Statistics" Version="3.8.0" />
+		<PackageReference Include="CloudinaryDotNet" Version="1.22.0" />
+		<PackageReference Include="FirebaseStorage.net" Version="1.0.3" />
+		<PackageReference Include="Hangfire.Core" Version="1.8.6" />
+		<PackageReference Include="Mapster" Version="7.4.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.1.38" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Entities\Entities.csproj" />
+		<ProjectReference Include="..\Repositories\Repositories.csproj" />
+	</ItemGroup>
+
+</Project>

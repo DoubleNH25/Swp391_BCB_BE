@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BadmintonMatching</name>
+    </assembly>
+    <members>
+        <member name="M:BadmintonMatching.Controllers.UsersController.UpdateUserProfile(Entities.RequestObject.UpdateProfileUser,System.Int32,System.Boolean)">
+            <summary>
+            Update user profile (Role: Customer)
+            </summary>
+            <param name="param"></param>
+            <param name="user_id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BadmintonMatching.Message">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:BadmintonMatching.Message.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:BadmintonMatching.Message.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:BadmintonMatching.Message.SuccessMsg">
+            <summary>
+              Looks up a localized string similar to Success.
+            </summary>
+        </member>
+    </members>
+</doc>
