@@ -20,4 +20,4 @@ namespace Entities.Models
         public string? SettingName { get; set; }
         public decimal? SettingAmount { get; set; }
     }
-}//newcode
+}//newcode for setting
