@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "HD+44JiAPGI6xha9kIO1bfgbxNzNeh1v2zsMMQg8jvZ4YKY6BnLwkWPC6FecMitDg7G0FEq5NT8j5m2njtpI/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj",
-=======
-  "dgSpecHash": "TBzD5YocMHAw1C+QVKuMqr/VxxCqL9UwU2JEsPow6PXg7dqjFqIGHPrdNHd61Bhp2v6G39qAG3gacwIdDpr73A==",
-  "success": true,
-  "projectFilePath": "D:\\Kỳ 5\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj",
->>>>>>> 3c3fe048e3c22da9e4d6b9edf749dd735acb41b9
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\accord.machinelearning\\3.8.0\\accord.machinelearning.3.8.0.nupkg.sha512",
@@ -172,5 +166,12 @@
     "C:\\Users\\MSI\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
