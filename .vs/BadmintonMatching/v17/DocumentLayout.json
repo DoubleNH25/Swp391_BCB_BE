@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\models\\userchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\userchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "Entities\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:18:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\Messages.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Messages.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\Messages.cs",
+              "RelativeToolTip": "Entities\\Models\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:18:03.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserChatRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\UserChatRoom.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\UserChatRoom.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\UserChatRoom.cs",
+              "RelativeToolTip": "Entities\\Models\\UserChatRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:17:46.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\ChatRoom.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\ChatRoom.cs",
+              "RelativeToolTip": "Entities\\Models\\ChatRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:16:30.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

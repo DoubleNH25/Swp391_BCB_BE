@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+MrrlpTMkyCkcKYftk5AHluCcBSc6CSwD3MNxAj2injZGpX9i5P4O3eFuaNGZD/XXgh04mPIz5S4MKNw+ZGctQ==",
+  "dgSpecHash": "VerF3IadVwiP2RnpsGJlbGaAHFUja07tMI7jECthxPy+fldImp0arN+civwU2GBTsNHTE6knDlvRRfesqo/22g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\New folder (3)\\New folder\\BadmintonMatchingPlayer-main\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\corepush\\3.1.1\\corepush.3.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
