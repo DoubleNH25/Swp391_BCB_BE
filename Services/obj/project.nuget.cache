@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "cS5SnMjkg4dQq+gqyxH3zmz/qQ6vIOxEfinhJXzd6PbLqInLuw54ggom2MLCUjyDIWibPh4LzMzojhDeAr81UA==",
   "success": true,
   "projectFilePath": "C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\Services.csproj",
+=======
+  "dgSpecHash": "oUB/U0JS7ckzLqgd51/XN/oUKrQ8upGeIhoPFXT3FTd9QyT1z9ik97UtU/xygBHXwJFxn9g2NbU9+Hb3f5nJNg==",
+  "success": true,
+  "projectFilePath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Services\\Services.csproj",
+>>>>>>> 3c3fe048e3c22da9e4d6b9edf749dd735acb41b9
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\accord.machinelearning\\3.8.0\\accord.machinelearning.3.8.0.nupkg.sha512",

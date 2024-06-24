@@ -2026,31 +2026,47 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\MSI\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+>>>>>>> 3c3fe048e3c22da9e4d6b9edf749dd735acb41b9
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
       "projectPath": "C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\obj\\",
+=======
+      "projectUniqueName": "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
+      "projectName": "Repositories",
+      "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\obj\\",
+>>>>>>> 3c3fe048e3c22da9e4d6b9edf749dd735acb41b9
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 3c3fe048e3c22da9e4d6b9edf749dd735acb41b9
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
+>>>>>>> 3c3fe048e3c22da9e4d6b9edf749dd735acb41b9
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -2058,8 +2074,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj"
+=======
+            "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj"
+>>>>>>> 3c3fe048e3c22da9e4d6b9edf749dd735acb41b9
             }
           }
         }

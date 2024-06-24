@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "fz10mxuowfLn25SIz8aaLxT+uXipPUzRlKFDx5UJHn/RdFbkj9WmmItHxpxMU5rV6xL3TALXNFXmGudIXx+DpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\MSI\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
+=======
+  "dgSpecHash": "EVlbwfpKuT2uZLjI/A8VlyyfvUTT+q5P+9BRzsFzirbB8hPdKYgk3v/qrrBZlgUJgXHumWyZVtMUQRO31KWTxw==",
+  "success": true,
+  "projectFilePath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
+>>>>>>> 3c3fe048e3c22da9e4d6b9edf749dd735acb41b9
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\corepush\\3.1.1\\corepush.3.1.1.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
