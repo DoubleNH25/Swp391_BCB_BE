@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
+  "WorkspaceRootPath": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\models\\userchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\userchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\userchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,64 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\User.cs",
-              "RelativeToolTip": "Entities\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:18:23.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Messages.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\Messages.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Messages.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\Messages.cs",
-              "RelativeToolTip": "Entities\\Models\\Messages.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:18:03.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserChatRoom.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\UserChatRoom.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\UserChatRoom.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\UserChatRoom.cs",
-              "RelativeToolTip": "Entities\\Models\\UserChatRoom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:17:46.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ChatRoom.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\ChatRoom.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\ChatRoom.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Models\\ChatRoom.cs",
-              "RelativeToolTip": "Entities\\Models\\ChatRoom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:16:30.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -110,7 +58,74 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Comment.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Comment.cs",
+              "RelativeToolTip": "Entities\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:11:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "Entities\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:18:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Messages.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Messages.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Messages.cs",
+              "RelativeToolTip": "Entities\\Models\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:18:03.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserChatRoom.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\UserChatRoom.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\UserChatRoom.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\UserChatRoom.cs",
+              "RelativeToolTip": "Entities\\Models\\UserChatRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:17:46.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\ChatRoom.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\ChatRoom.cs",
+              "RelativeToolTip": "Entities\\Models\\ChatRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:16:30.922Z",
+              "EditorCaption": ""
             }
           ]
         }
