@@ -1,56 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\hangfirejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\hangfirejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\historytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\historytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\historywallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\historywallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\swp391_bcb_be\\entities\\models\\userchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\userchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -58,98 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Role.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Role.cs",
-              "RelativeToolTip": "Entities\\Models\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:21:12.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Report.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Report.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Report.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Report.cs",
-              "RelativeToolTip": "Entities\\Models\\Report.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAUwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:20:05.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Post.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Post.cs",
-              "RelativeToolTip": "Entities\\Models\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAowB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:19:16.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Notification.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Notification.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Notification.cs",
-              "RelativeToolTip": "Entities\\Models\\Notification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:19:01.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HistoryWallet.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\HistoryWallet.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\HistoryWallet.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\HistoryWallet.cs",
-              "RelativeToolTip": "Entities\\Models\\HistoryWallet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:18:32.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HistoryTransaction.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\HistoryTransaction.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\HistoryTransaction.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\HistoryTransaction.cs",
-              "RelativeToolTip": "Entities\\Models\\HistoryTransaction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:18:20.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HangfireJob.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\HangfireJob.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\HangfireJob.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\HangfireJob.cs",
-              "RelativeToolTip": "Entities\\Models\\HangfireJob.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:16:49.699Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -177,73 +41,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Comment.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Comment.cs",
-              "RelativeToolTip": "Entities\\Models\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:11:15.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\User.cs",
-              "RelativeToolTip": "Entities\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:18:23.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Messages.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Messages.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\Messages.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\Messages.cs",
-              "RelativeToolTip": "Entities\\Models\\Messages.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:18:03.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserChatRoom.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\UserChatRoom.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\UserChatRoom.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\UserChatRoom.cs",
-              "RelativeToolTip": "Entities\\Models\\UserChatRoom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:17:46.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChatRoom.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\ChatRoom.cs",
-              "RelativeDocumentMoniker": "Entities\\Models\\ChatRoom.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Swp391_BCB_BE\\Entities\\Models\\ChatRoom.cs",
-              "RelativeToolTip": "Entities\\Models\\ChatRoom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T01:16:30.922Z"
             }
           ]
         }
