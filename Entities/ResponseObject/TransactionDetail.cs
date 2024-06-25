@@ -1,5 +1,8 @@
 ﻿using Entities.Models;
+<<<<<<< HEAD
 using System.Transactions;
+=======
+>>>>>>> main
 
 namespace Entities.ResponseObject
 {

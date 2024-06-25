@@ -1,6 +1,9 @@
 ﻿using Entities.Models;
 using Microsoft.EntityFrameworkCore;
+<<<<<<< HEAD
 using System;
+=======
+>>>>>>> main
 
 namespace Entities
 {
