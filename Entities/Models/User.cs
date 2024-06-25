@@ -14,13 +14,13 @@ namespace Entities.Models
     {
         public User()
         {
-/*            Posts = new HashSet<Post>();
+            Posts = new HashSet<Post>();
             Transactions = new HashSet<Transaction>();
             UserRatings = new HashSet<UserRating>();
             Wallets = new HashSet<Wallet>();
             Tokens = new HashSet<VerifyToken>();
             Notifications = new HashSet<Notification>();
-            Slots = new HashSet<Slot>();*/
+            Slots = new HashSet<Slot>();
             ChatRooms = new HashSet<UserChatRoom>();
             Messages = new HashSet<Messages>();
         }
