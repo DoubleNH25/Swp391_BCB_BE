@@ -266,8 +266,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\VerifyEmail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:13:34.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:13:34.521Z"
             },
             {
               "$type": "Document",
@@ -279,8 +278,7 @@
               "RelativeToolTip": "Entities\\DataContext.cs",
               "ViewState": "AQIAANwBAAAAAAAAAAAmwOUBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:14:06.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:14:06.702Z"
             },
             {
               "$type": "Document",
@@ -292,8 +290,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\WithdrawDetailResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAmwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:13:56.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:13:56.451Z"
             },
             {
               "$type": "Document",
@@ -318,8 +315,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\UserProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAmwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:13:01.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:13:01.163Z"
             },
             {
               "$type": "Document",
@@ -331,8 +327,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\UserSuggestion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:13:24.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:13:24.348Z"
             },
             {
               "$type": "Document",
@@ -344,8 +339,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\Ward.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:13:48.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:13:48.209Z"
             },
             {
               "$type": "Document",
@@ -357,8 +351,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\TransactionInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:12:25.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:12:25.102Z"
             },
             {
               "$type": "Document",
@@ -370,8 +363,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\PostOptional.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAmwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:10:14.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:10:14.74Z"
             },
             {
               "$type": "Document",
@@ -383,8 +375,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\PostInfomation.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAA2wEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:10:06.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:10:06.793Z"
             },
             {
               "$type": "Document",
@@ -396,8 +387,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\NotificationReturn.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:09:46.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:09:46.991Z"
             },
             {
               "$type": "Document",
@@ -409,8 +399,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\ListPostByAdmin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:09:02.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:09:02.624Z"
             },
             {
               "$type": "Document",
@@ -422,8 +411,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\JoinedChatRoom.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:08:45.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:08:45.921Z"
             },
             {
               "$type": "Document",
@@ -435,8 +423,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\HistoryWalletModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:04:33.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:04:33.436Z"
             },
             {
               "$type": "Document",
@@ -448,8 +435,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\FirebaseResponseModel.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAiwCQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:04:16.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:04:16.567Z"
             },
             {
               "$type": "Document",
@@ -461,8 +447,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\District.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:04:04.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:04:04.034Z"
             },
             {
               "$type": "Document",
@@ -474,8 +459,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\CreateChargerResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:03:51.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:03:51.394Z"
             },
             {
               "$type": "Document",
@@ -487,8 +471,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\CommentInfos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:03:27.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:03:27.449Z"
             },
             {
               "$type": "Document",
@@ -500,8 +483,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\BandedUsers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:02:51.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:02:51.631Z"
             },
             {
               "$type": "Document",
@@ -513,8 +495,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\BlogDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:03:01.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:03:01.923Z"
             },
             {
               "$type": "Document",
@@ -526,8 +507,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\BlogInList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:03:14.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:03:14.082Z"
             },
             {
               "$type": "Document",
@@ -539,8 +519,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\City.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:03:28.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:03:28.61Z"
             },
             {
               "$type": "Document",
@@ -552,8 +531,7 @@
               "RelativeToolTip": "Entities\\Models\\VerifyToken.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:31:48.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:31:48.034Z"
             },
             {
               "$type": "Document",
@@ -565,8 +543,7 @@
               "RelativeToolTip": "Entities\\ResponseObject\\PostDetail.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAmwDIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:09:56.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:09:56.409Z"
             },
             {
               "$type": "Document",
@@ -578,8 +555,7 @@
               "RelativeToolTip": "Entities\\Models\\Setting.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:43:19.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T16:43:19.208Z"
             },
             {
               "$type": "Document",
@@ -591,8 +567,7 @@
               "RelativeToolTip": "Entities\\Models\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:21:12.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T03:21:12.816Z"
             },
             {
               "$type": "Document",
@@ -604,8 +579,7 @@
               "RelativeToolTip": "Entities\\Models\\Report.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAUwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T03:20:05.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T03:20:05.005Z"
             },
             {
               "$type": "Document",
