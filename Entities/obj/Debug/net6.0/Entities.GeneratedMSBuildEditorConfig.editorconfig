@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Entities
-build_property.ProjectDir = C:\Users\MSI\Documents\GitHub\Swp391_BCB_BE\Entities\
+build_property.ProjectDir = D:\Kỳ 5\Swp391_BCB_BE\Entities\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
