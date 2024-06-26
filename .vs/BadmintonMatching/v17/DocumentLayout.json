@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\payment\\vnpayoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\payment\\vnpayoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\payment\\responseurimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\payment\\responseurimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\payment\\paymentinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\payment\\paymentinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\entities\\payment\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\payment\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,58 +42,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VnPayOption.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Payment\\VnPayOption.cs",
-              "RelativeDocumentMoniker": "Entities\\Payment\\VnPayOption.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Payment\\VnPayOption.cs",
-              "RelativeToolTip": "Entities\\Payment\\VnPayOption.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T00:41:18.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResponseUriModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Payment\\ResponseUriModel.cs",
-              "RelativeDocumentMoniker": "Entities\\Payment\\ResponseUriModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Payment\\ResponseUriModel.cs",
-              "RelativeToolTip": "Entities\\Payment\\ResponseUriModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T00:41:09.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PaymentResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Payment\\PaymentResponseModel.cs",
-              "RelativeDocumentMoniker": "Entities\\Payment\\PaymentResponseModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Payment\\PaymentResponseModel.cs",
-              "RelativeToolTip": "Entities\\Payment\\PaymentResponseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T00:40:58.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PaymentInfoModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Payment\\PaymentInfoModel.cs",
-              "RelativeDocumentMoniker": "Entities\\Payment\\PaymentInfoModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Payment\\PaymentInfoModel.cs",
-              "RelativeToolTip": "Entities\\Payment\\PaymentInfoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T00:40:42.624Z",
-              "EditorCaption": ""
             }
           ]
         }
