@@ -1,34 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kỳ 5\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj": {}
   },
   "projects": {
-    "D:\\Kỳ 5\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kỳ 5\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj",
         "projectName": "BadmintonMatching",
-        "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\BadmintonMatching\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Kỳ 5\\Swp391_BCB_BE\\Services\\Services.csproj": {
-                "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Services\\Services.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\Services.csproj"
               }
             }
           }
@@ -120,23 +125,28 @@
         }
       }
     },
-    "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -199,31 +209,36 @@
         }
       }
     },
-    "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj"
               }
             }
           }
@@ -268,34 +283,39 @@
         }
       }
     },
-    "D:\\Kỳ 5\\Swp391_BCB_BE\\Services\\Services.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kỳ 5\\Swp391_BCB_BE\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Services\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Entities\\Entities.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\Entities.csproj"
               },
-              "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\Kỳ 5\\Swp391_BCB_BE\\Repositories\\Repositories.csproj"
+              "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Repositories\\Repositories.csproj"
               }
             }
           }
