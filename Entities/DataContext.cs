@@ -40,7 +40,7 @@ namespace Entities
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=.;Database=BadmintonDB1;user id=sa;password=1234567890;Trusted_Connection=False");
+                optionsBuilder.UseSqlServer("Server=.;Database=BadmintonDB1;user id=sa;password=12345;Trusted_Connection=False");
             }
         }
 

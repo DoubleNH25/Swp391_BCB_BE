@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
+
+    }
+  ],
+=======
   "Documents": [],
+
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,10 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+
+=======
           "SelectedChildIndex": -1,
+
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +50,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\DataContext.cs",
+              "RelativeDocumentMoniker": "Entities\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Entities\\DataContext.cs",
+              "RelativeToolTip": "Entities\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:11:10.497Z",
+              "EditorCaption": ""
             }
           ]
         }
