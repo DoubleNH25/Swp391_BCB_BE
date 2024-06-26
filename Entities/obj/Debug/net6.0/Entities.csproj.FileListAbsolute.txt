@@ -12,3 +12,12 @@ D:\Project\Đồ án tốt nghiệp\BadmintonMatchingPlayer\BE\BadmintonMatching
 D:\Project\Đồ án tốt nghiệp\BadmintonMatchingPlayer\BE\BadmintonMatchingPlayer-main\Entities\obj\Debug\net6.0\Entities.pdb
 D:\Project\Đồ án tốt nghiệp\BadmintonMatchingPlayer\BE\BadmintonMatchingPlayer-main\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
 D:\Project\Đồ án tốt nghiệp\BadmintonMatchingPlayer\BE\BadmintonMatchingPlayer-main\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\Entities.sourcelink.json
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Admin\Documents\GitHub\Swp391_BCB_BE\Entities\obj\Debug\net6.0\Entities.pdb

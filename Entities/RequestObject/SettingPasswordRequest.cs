@@ -6,3 +6,4 @@
         public string? NewPass { get; set; }
         public string? ReEnterPass { get; set; }
     }
+}
