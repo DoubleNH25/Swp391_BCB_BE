@@ -849,12 +849,12 @@ namespace Entities.Migrations
 
             modelBuilder.Entity("Entities.Models.HistoryTransaction", b =>
             {
-                b.HasOne("Entities.Models.Transaction", "IdTransactionNavigation")
+                b.HasOne("Entities.Models.Transaction", "HistoryTransaction")
                     .WithMany("HistoryTransactions")
                     .HasForeignKey("IdTransaction")
                     .HasConstraintName("FK_HistoryTransaction_Transactions");
 
-                b.Navigation("IdTransactionNavigation");
+                b.Navigation("HistoryTransaction");
             });
 
             modelBuilder.Entity("Entities.Models.HistoryWallet", b =>
@@ -933,17 +933,17 @@ namespace Entities.Migrations
             modelBuilder.Entity("Entities.Models.Slot", b =>
             {
                 b.HasOne("Entities.Models.Post", "IdPostNavigation")
-                    .WithMany("Slots")
+                    .WithMany("Slot")
                     .HasForeignKey("IdPost")
                     .HasConstraintName("FK_Slot_Posts");
 
                 b.HasOne("Entities.Models.User", "User")
-                    .WithMany("Slots")
+                    .WithMany("Slot")
                     .HasForeignKey("IdUser")
                     .HasConstraintName("FK_Slot_User");
 
                 b.HasOne("Entities.Models.Transaction", "Transaction")
-                    .WithMany("Slots")
+                    .WithMany("Slot")
                     .HasForeignKey("TransactionId")
                     .HasConstraintName("FK_Slot_Transaction");
 
@@ -1016,7 +1016,7 @@ namespace Entities.Migrations
 
             modelBuilder.Entity("Entities.Models.UserRating", b =>
             {
-                b.HasOne("Entities.Models.HistoryTransaction", "IdTransactionNavigation")
+                b.HasOne("Entities.Models.HistoryTransaction", "HistoryTransaction")
                     .WithMany("UserRatings")
                     .HasForeignKey("IdTransaction")
                     .HasConstraintName("FK_UserRating_HistoryTransaction");
@@ -1026,7 +1026,7 @@ namespace Entities.Migrations
                     .HasForeignKey("IdUserRated")
                     .HasConstraintName("FK_UserRating_Users");
 
-                b.Navigation("IdTransactionNavigation");
+                b.Navigation("HistoryTransaction");
 
                 b.Navigation("IdUserRatedNavigation");
             });
@@ -1086,7 +1086,7 @@ namespace Entities.Migrations
             {
                 b.Navigation("Reports");
 
-                b.Navigation("Slots");
+                b.Navigation("Slot");
             });
 
             modelBuilder.Entity("Entities.Models.Role", b =>
@@ -1104,7 +1104,7 @@ namespace Entities.Migrations
 
                 b.Navigation("ScheduledJob");
 
-                b.Navigation("Slots");
+                b.Navigation("Slot");
             });
 
             modelBuilder.Entity("Entities.Models.TypePost", b =>
@@ -1122,7 +1122,7 @@ namespace Entities.Migrations
 
                 b.Navigation("Posts");
 
-                b.Navigation("Slots");
+                b.Navigation("Slot");
 
                 b.Navigation("Tokens");
 

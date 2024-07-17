@@ -9,20 +9,20 @@ namespace Entities.ResponseObject
 {
     public class ReportDetail
     {
-        public int? ReportId { get; set; }
+        public int? ReportId { get; set; }    
         public int? UserReportId { get; set; }
         public int? UserSendId { get; set; }
         public string? SendUserName { get; set; }
-        public int? ReportStatus { get; set; }
+        public int? ReportStatus {  get; set; }
         public string? reportUserName { get; set; }
         public int? ReportType { get; set; }
         public string? TitleReport { get; set; }
         public string? ContentReport { get; set; }
-        public bool? IsBan { get; set; }
+        public bool ? IsBan { get; set; }
 
-
-
-        public ReportPost reportPost { get; set; } = new ReportPost();
+      
+        
+        public ReportPost reportPost { get; set; }=new ReportPost();
         public ReportTrans reportTrans { get; set; } = new ReportTrans();
     }
 

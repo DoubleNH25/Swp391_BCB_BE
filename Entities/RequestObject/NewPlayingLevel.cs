@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Entities.RequestObject
+﻿namespace Entities.RequestObject
 {
-    public class NewPlayingWay
+    public class NewPlayingLevel
     {
-        public List<string>? PlayingWays { get; set; }
+        public int Point { get; set; }
     }
 }

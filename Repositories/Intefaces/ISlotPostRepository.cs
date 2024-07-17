@@ -2,7 +2,7 @@
 
 namespace Repositories.Intefaces
 {
-    public interface IChatRoomRepository : IRepositoryBase<ChatRoom>
+    public interface ISlotPostRepository : IRepositoryBase<SlotPost>
     {
     }
 }

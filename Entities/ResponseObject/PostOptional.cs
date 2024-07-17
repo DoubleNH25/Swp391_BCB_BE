@@ -8,8 +8,8 @@ namespace Entities.ResponseObject
 {
     public class PostOptional
     {
-        public int? IdPost { get; set; }
-        public string? Title { get; set; }
+        public int? IdPost {  get; set; }
+        public string? Title {  get; set; }
         public string? ContentPost { get; set; }
         public string? ImgUrlPost { get; set; }
         public string? AddressSlot { get; set; }

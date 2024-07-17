@@ -1,4 +1,5 @@
 ﻿using Entities.Models;
+using Entities.Models;
 using Entities.RequestObject;
 
 namespace Entities.ResponseObject
@@ -13,36 +14,34 @@ namespace Entities.ResponseObject
             PostId = post.Id;
             PostImgUrl = post.ImgUrl;
             SortDescript = post.ContentPost;
-            UserId = post.IdUserTo;
-            UserImgUrl = post.IdUserToNavigation.ImgUrl;
-            UserName = post.IdUserToNavigation.UserName;
+            IdUser = post.IdUserTo;
             isDelete = post.IsDeleted;
-            status = post.Status;
-
+            status=post.Status;
+            UserName = post.IdUserToNavigation.UserName;
             var finalInfo = new SlotInfo();
             int joinedSlot = 0;
-            foreach (var slot in post.SlotsInfo.Split(";"))
-            {
-                var slotInfo = new SlotInfo(slot);
-                var joinSlot = post.Slots
-                    .Where(x =>
-                    !x.IsDeleted &&
-                    x.ContentSlot == slotInfo.StartTime.Value.ToString("dd/MM/yyyy"))
-                    .Count();
-                if (slotInfo.AvailableSlot - joinSlot >= finalInfo.AvailableSlot)
-                {
-
-                    finalInfo = slotInfo;
-                    joinedSlot = joinSlot;
-                }
-            }
-            AvailableSlot = finalInfo.AvailableSlot - joinedSlot;
-            Time = $"{finalInfo.StartTime.Value.ToString("dd/MM/yyyy")}: {finalInfo.StartTime.Value.ToString("HH:mm")} - {finalInfo.EndTime.Value.ToString("HH:mm")}";
+            //foreach (var slot in post.SlotsInfo.Split(";"))
+            //{
+            //    var slotInfo = new SlotInfo(slot);
+            //    var joinSlot = post.Slot
+            //        .Where(x =>
+            //        !x.IsDeleted &&
+            //        x.ContentSlot == slotInfo.StartTime.Value.ToString("dd/MM/yyyy"))
+            //        .Count();
+            //    if (slotInfo.AvailableSlot - joinSlot >= finalInfo.AvailableSlot)
+            //    {
+                    
+            //        finalInfo = slotInfo;
+            //        joinedSlot = joinSlot;
+            //    }
+            //}
+            //AvailableSlot = finalInfo.AvailableSlot - joinedSlot;
+            //Time = $"{finalInfo.StartTime.Value.ToString("dd/MM/yyyy")}: {finalInfo.StartTime.Value.ToString("HH:mm")} - {finalInfo.EndTime.Value.ToString("HH:mm")}";
         }
         //public List<AllSlot>? AllSlotInfo { get; set; }
-        public string? Title { get; set; }
+        public string? Title {  get; set; }
         public int PostId { get; set; }
-        public int? UserId { get; set; }
+        public int? IdUser { get; set; }
         public string? UserName { get; set; }
         public string? SortDescript { get; set; }
         public string? Time { get; set; }

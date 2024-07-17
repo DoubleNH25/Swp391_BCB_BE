@@ -1,4 +1,5 @@
 ﻿using Entities.Models;
+using Entities.Models;
 using Entities.RequestObject;
 
 namespace Entities.ResponseObject
@@ -14,34 +15,12 @@ namespace Entities.ResponseObject
             AddressSlot = post.AddressSlot;
             CategorySlot = post.CategorySlot;
             ContentPost = post.ContentPost;
-            FullName = post.IdUserToNavigation.FullName;
-            HightLightImage = post.ImgUrl;
-            LevelSlot = post.LevelSlot;
-            ImgUrlUser = post.IdUserToNavigation.ImgUrl;
-            SortProfile = post.IdUserToNavigation.SortProfile;
-            TotalRate = post.IdUserToNavigation.TotalRate;
+          
+            HightLightImage = post.ImgUrl;     
             UserId = post.IdUserTo.Value;
             Title = post.Title;
-
-            foreach (var slot in post.SlotsInfo.Split(";"))
-            {
-                if (SlotInfos == null)
-                {
-                    SlotInfos = new List<SlotInfo>();
-                }
-                var slotInfo = new SlotInfo(slot);
-                var joinSlot = post.Slots
-                    .Where(x =>
-                    !x.IsDeleted &&
-                    x.ContentSlot == slotInfo.StartTime.Value.ToString("dd/MM/yyyy"))
-                    .Count();
-                slotInfo.AvailableSlot -= joinSlot;
-
-                if (slotInfo.StartTime >= DateTime.UtcNow.AddHours(-7))
-                {
-                    SlotInfos.Add(slotInfo);
-                }
-            }
+            var DateSlot=new DateTime() ;
+            Price = post.SlotPosts.FirstOrDefault().SlotPrice;          
         }
 
         public string? AddressSlot { get; set; }
@@ -56,6 +35,8 @@ namespace Entities.ResponseObject
         public string? SortProfile { get; set; }
         public int UserId { get; set; }
         public string? Title { get; set; }
-        public List<SlotInfo> SlotInfos { get; set; }
+        public Decimal? Price { get; set; }
+        public List<PostSlot> postSlot { get; set; }
+        
     }
 }

@@ -8,7 +8,7 @@ namespace Entities.ResponseObject
 {
     public class ReportIncomeModel
     {
-        public List<HistoryWalletModel> historyWalletModels { get; set; }
+      public  List<HistoryWalletModel> historyWalletModels { get; set; }
         public decimal Total { get; set; }
     }
 

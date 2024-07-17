@@ -2,9 +2,9 @@
 {
     public class CheckAvailableSlot
     {
-        public int UserId { get; set; }
-        public int PostId { get; set; }
-        public List<SlotsInfo> SlotsInfo { get; set; }
+        //public int UserId { get; set; }
+        //public int PostId { get; set; }
+        //public List<SlotsInfo> SlotsInfo { get; set; }
     }
 
     public class SlotsInfo

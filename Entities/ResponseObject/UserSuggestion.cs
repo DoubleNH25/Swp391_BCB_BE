@@ -6,6 +6,6 @@
         public string? Name { get; set; }
         public string? ShortProfile { get; set; }
         public double? Rating { get; set; }
-        public string? ImgUrl { get; set; }
+        public string? ImgUrl {  get; set; }
     }
 }

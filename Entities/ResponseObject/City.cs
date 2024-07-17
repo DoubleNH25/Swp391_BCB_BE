@@ -8,10 +8,10 @@ namespace Entities.ResponseObject
 {
     public class City
     {
-
-        public int Id { get; set; }
-        public string Name { get; set; }
-        // Các thông tin khác về thành phố
-
+        
+            public int Id { get; set; }
+            public string Name { get; set; }
+            // Các thông tin khác về thành phố
+        
     }
 }

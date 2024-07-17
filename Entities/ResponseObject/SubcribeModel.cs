@@ -8,6 +8,6 @@ namespace Entities.ResponseObject
 {
     public class SubcribeModel
     {
-        public bool? IsSub { get; set; }
+        public bool? IsSub {  get; set; }
     }
 }
