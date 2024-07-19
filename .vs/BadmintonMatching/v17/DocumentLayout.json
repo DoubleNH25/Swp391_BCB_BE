@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\iwalletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iwalletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\itransactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,6 +127,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IWalletServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IWalletServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IWalletServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IWalletServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IWalletServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:34:56.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IVNPayService.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IVNPayService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IVNPayService.cs",
@@ -141,14 +158,14 @@
               "RelativeDocumentMoniker": "Services\\Interfaces\\IUserServices.cs",
               "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IUserServices.cs",
               "RelativeToolTip": "Services\\Interfaces\\IUserServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T08:26:32.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ITransactionServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ITransactionServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ITransactionServices.cs",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ISlotPostServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ISlotPostServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ISlotPostServices.cs",
@@ -172,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ISlotServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ISlotServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ISlotServices.cs",
@@ -184,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SlotServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Implements\\SlotServices.cs",
               "RelativeDocumentMoniker": "Services\\Implements\\SlotServices.cs",
