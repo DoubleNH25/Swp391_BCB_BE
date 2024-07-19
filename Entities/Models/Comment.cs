@@ -15,4 +15,4 @@ namespace Entities.Models
         public int IdTarget { get; set; }
         public DateTime SavedDate { get; set; }
     }
-}
+}//need to check
