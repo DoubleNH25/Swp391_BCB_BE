@@ -315,7 +315,7 @@ namespace Services.Implements
             switch (transaction.Status)
             {
                 case (int)TransactionStatus.Booked:
-                    transactionStatus = "Đặt sân thành !";
+                    transactionStatus = "Đặt sân thành !"; //need to fixx
                     break;
                 case (int)TransactionStatus.Canceled:
                     transactionStatus = "Đặt sân thất bại !";

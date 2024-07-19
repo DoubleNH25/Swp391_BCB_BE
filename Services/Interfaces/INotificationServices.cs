@@ -13,3 +13,4 @@ namespace Services.Interfaces
         bool TransactionDetailsEmail(Transaction transaction);
     }
 }
+//Check
