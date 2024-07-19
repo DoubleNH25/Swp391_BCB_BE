@@ -1,6 +1,6 @@
 ﻿namespace BadmintonMatching.Payment;
 
-public class PaymentDetailModel
+public class PaymentDetailModel // can be deleted
 {
     public decimal Amount { get; set; }
     public string PaymentMethod { get; set; }

@@ -2,7 +2,7 @@
 
 namespace BadmintonMatching.Payment
 {
-    public class PaymentResponseModel
+    public class PaymentResponseModel //can be removed
     {
         public string CurrentUserId { get; set; }
         public string OwnerId { get; set; }

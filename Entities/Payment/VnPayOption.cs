@@ -1,6 +1,6 @@
 ﻿namespace BadmintonMatching.Payment;
 
-public class VnPayOption
+public class VnPayOption //can be deleted
 {
     public string TmnCode { get; set; }
     public string HashSecret { get; set; }
