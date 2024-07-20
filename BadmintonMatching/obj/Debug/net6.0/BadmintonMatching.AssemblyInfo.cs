@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BadmintonMatching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f58a5fd85fa38ac12aa3e874f64b0065a0b76762")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a88857695d91620072f71ddbd854a8db6a7ce61")]
 [assembly: System.Reflection.AssemblyProductAttribute("BadmintonMatching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BadmintonMatching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
