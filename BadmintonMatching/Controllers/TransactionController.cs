@@ -58,5 +58,38 @@ namespace BadmintonMatching.Controllers
                 return Ok(new SuccessObject<object> { Message = "Giao dịch khôn tồn tại !" });
             }
         }
+
+        [HttpGet]
+        [Route("{transaction_id}/detail")]
+        [ProducesResponseType(typeof(SuccessObject<TransactionDetail>), 200)]
+        public async Task<IActionResult> GetTransactionDetail(int transaction_id)
+        {
+            var data = await _transactionRepository.GetDetail(transaction_id);
+            return Ok(new SuccessObject<TransactionDetail> { Data = data, Message = Message.SuccessMsg });
+        }
+
+        [HttpDelete]
+        [Route("{transaction_id}/discard")]
+        public async Task<IActionResult> DiscardTransaction(int transaction_id)
+        {
+            var transaction = await _transactionRepository.GetTransaction(transaction_id);
+            if (transaction.Id > 0)
+            {
+                if (transaction.Status == (int)TransactionStatus.Booked)
+                {
+                    await _transactionRepository.DeleteSlot(transaction_id);
+                    await _transactionRepository.DeleteTran(transaction_id);
+                    return Ok(new SuccessObject<object> { Message = Message.SuccessMsg, Data = true });
+                }
+                else
+                {
+                    return Ok(new SuccessObject<object> { Message = "Giao dịch đã hoàn tất không được phép xóa !" });
+                }
+            }
+            else
+            {
+                return Ok(new SuccessObject<object> { Message = "Giao dịch khôn tồn tại ! id" });
+            }
+        }
     }
 }
