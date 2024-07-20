@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\badmintonmatching\\realtimehub\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\realtimehub\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\badmintonmatching\\realtimehub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\realtimehub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\badmintonmatching\\extension\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\extension\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,27 +47,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NotificationHub.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\RealtimeHub\\NotificationHub.cs",
-              "RelativeDocumentMoniker": "BadmintonMatching\\RealtimeHub\\NotificationHub.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\RealtimeHub\\NotificationHub.cs",
-              "RelativeToolTip": "BadmintonMatching\\RealtimeHub\\NotificationHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "HangfireAuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\Extension\\HangfireAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Extension\\HangfireAuthorizationFilter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\Extension\\HangfireAuthorizationFilter.cs",
+              "RelativeToolTip": "BadmintonMatching\\Extension\\HangfireAuthorizationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T01:17:57.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\RealtimeHub\\ChatHub.cs",
-              "RelativeDocumentMoniker": "BadmintonMatching\\RealtimeHub\\ChatHub.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\RealtimeHub\\ChatHub.cs",
-              "RelativeToolTip": "BadmintonMatching\\RealtimeHub\\ChatHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T01:15:57.4Z",
+              "WhenOpened": "2024-07-20T01:19:30.324Z",
               "EditorCaption": ""
             }
           ]
