@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\badmintonmatching\\extension\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\extension\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\badmintonmatching\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BadmintonMatching\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:23:31.748Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -43,19 +56,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HangfireAuthorizationFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\Extension\\HangfireAuthorizationFilter.cs",
-              "RelativeDocumentMoniker": "BadmintonMatching\\Extension\\HangfireAuthorizationFilter.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\BadmintonMatching\\Extension\\HangfireAuthorizationFilter.cs",
-              "RelativeToolTip": "BadmintonMatching\\Extension\\HangfireAuthorizationFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T01:19:30.324Z",
-              "EditorCaption": ""
             }
           ]
         }
