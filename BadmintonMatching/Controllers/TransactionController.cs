@@ -41,5 +41,22 @@ namespace BadmintonMatching.Controllers
                 return Ok(new SuccessObject<object> { Data = new { TranSactionId = tranId }, Message = Message.SuccessMsg });
             }
         }
+        [HttpPut]
+        [Route("status_info")]
+        [ProducesResponseType(typeof(SuccessObject<List<Reports>>), 200)]
+        public async Task<IActionResult> ChangeStatus(TransactionCreateInfo info)
+        {
+
+            var res = await _transactionRepository.UpdateStatus(info);
+            if (res == 1)
+            {
+                return Ok(new SuccessObject<object> { Message = "Cập nhật thành công", Data = true });
+
+            }
+            else
+            {
+                return Ok(new SuccessObject<object> { Message = "Giao dịch khôn tồn tại !" });
+            }
+        }
     }
 }
