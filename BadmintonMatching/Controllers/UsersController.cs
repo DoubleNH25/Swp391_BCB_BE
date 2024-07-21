@@ -53,5 +53,18 @@ namespace BadmintonMatching.Controllers
             var reportIncomeModel = _userServices.GetIncomeByInMonth(month, year);
             return Ok(new SuccessObject<ReportIncomeModel> { Data = reportIncomeModel, Message = Message.SuccessMsg });
         }
+
+        [HttpGet]
+        [Route("{startDate}&{endDate}/report_income_Month")]
+        public async Task<IActionResult> GetReportIncomeMonth(string startDate, string endDate)
+
+
+        {
+            startDate = HttpUtility.UrlDecode((startDate));
+            endDate = HttpUtility.UrlDecode((endDate));
+
+            var reportIncomeModel = _userServices.GetIncomeByMonth(startDate, endDate);
+            return Ok(new SuccessObject<ReportIncomeModel> { Data = reportIncomeModel, Message = Message.SuccessMsg });
+        }
     }
 }
