@@ -26,6 +26,23 @@ namespace BadmintonMatching.Controllers
 
         [HttpPost]
         [Route("email_login")]
+        public IActionResult GetUserByEmail(LoginInformation info)
+        {
+            if (!_userServices.IsUserExist(info.Email))
+            {
+                return Ok(new SuccessObject<object> { Message = "Tài khoản không tồn tại" });
+            }
+            var userInfo = _userServices.GetExistUser(info);
 
+            if (userInfo.Id == -1)
+            {
+                return Ok(new SuccessObject<object> { Message = "Tài khoản của bạn đã bị khóa" });
+            }
+            else if (userInfo.Id == 0)
+            {
+                return Ok(new SuccessObject<object> { Message = "Tài khoản hoặc mật khẩu không đúng" });
+            }
+            return Ok(new SuccessObject<UserInformation> { Data = userInfo, Message = Message.SuccessMsg });
+        }
     }
 }
