@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\badmintonmatching\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\badmintonmatching\\controllers\\wardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\wardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\badmintonmatching\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\badmintonmatching\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WardController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\WardController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\WardController.cs",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WalletController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\WalletController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\WalletController.cs",
@@ -107,12 +107,11 @@
               "RelativeToolTip": "BadmintonMatching\\Controllers\\WalletController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:07:26.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T04:07:26.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\UsersController.cs",
@@ -120,12 +119,11 @@
               "RelativeToolTip": "BadmintonMatching\\Controllers\\UsersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:07:03.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T04:07:03.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\TransactionController.cs",
@@ -133,18 +131,17 @@
               "RelativeToolTip": "BadmintonMatching\\Controllers\\TransactionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T04:06:51.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T04:06:51.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SlotController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\SlotController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\SlotController.cs",
               "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\SlotController.cs",
               "RelativeToolTip": "BadmintonMatching\\Controllers\\SlotController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwIAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T04:06:39.305Z",
               "EditorCaption": ""
