@@ -44,5 +44,14 @@ namespace BadmintonMatching.Controllers
             }
             return Ok(new SuccessObject<UserInformation> { Data = userInfo, Message = Message.SuccessMsg });
         }
+
+
+        [HttpGet]
+        [Route("{month}${year}/report_income_inMonth")]
+        public async Task<IActionResult> GetReportIncomeInMonth(string month, string year)
+        {
+            var reportIncomeModel = _userServices.GetIncomeByInMonth(month, year);
+            return Ok(new SuccessObject<ReportIncomeModel> { Data = reportIncomeModel, Message = Message.SuccessMsg });
+        }
     }
 }
