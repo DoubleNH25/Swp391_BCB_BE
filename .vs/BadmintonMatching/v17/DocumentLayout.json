@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\admin\\documents\\github\\swp391_bcb_be\\services\\implements\\walletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\implements\\walletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,19 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WalletServices.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\Implements\\WalletServices.cs",
-              "RelativeDocumentMoniker": "Services\\Implements\\WalletServices.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\Services\\Implements\\WalletServices.cs",
-              "RelativeToolTip": "Services\\Implements\\WalletServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T08:22:00.286Z",
-              "EditorCaption": ""
             }
           ]
         }
