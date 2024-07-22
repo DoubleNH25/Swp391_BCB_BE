@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\badmintonmatching\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\badmintonmatching\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\badmintonmatching\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\badmintonmatching\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -114,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,7 +206,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\WalletController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "BadmintonMatching\\Controllers\\WalletController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:54:09.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "BadmintonMatching\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:53:34.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistrictController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\DistrictController.cs",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\DistrictController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\DistrictController.cs",
+              "RelativeToolTip": "BadmintonMatching\\Controllers\\DistrictController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:52:57.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ImageController.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\ImageController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\ImageController.cs",
@@ -206,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\BlogController.cs",
@@ -218,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CityController.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\CityController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\CityController.cs",
@@ -231,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ChatController.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\ChatController.cs",
@@ -239,12 +290,11 @@
               "RelativeToolTip": "BadmintonMatching\\Controllers\\ChatController.cs",
               "ViewState": "AQIAAE0AAAAAAAAAAAAcwHIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T10:52:46.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T10:52:46.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HistoryTransaction.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\HistoryTransaction.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\HistoryTransaction.cs",
@@ -256,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\Comment.cs",
@@ -268,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Slot.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\Slot.cs",
               "RelativeDocumentMoniker": "Entities\\Models\\Slot.cs",
@@ -280,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "IWalletServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IWalletServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IWalletServices.cs",
@@ -292,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "IPostServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IPostServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IPostServices.cs",
@@ -304,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ISlotPostServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ISlotPostServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ISlotPostServices.cs",
@@ -316,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ISlotServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ISlotServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ISlotServices.cs",
@@ -328,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "IHasingServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IHasingServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IHasingServices.cs",
@@ -340,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IChatServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IChatServices.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IChatServices.cs",
@@ -352,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ITransactionRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ITransactionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\ITransactionRepository.cs",
@@ -364,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "IVerifyTokenRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IVerifyTokenRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\IVerifyTokenRepository.cs",
@@ -376,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IWalletRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IWalletRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\IWalletRepository.cs",
@@ -388,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "IWishlistRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IWishlistRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\IWishlistRepository.cs",
@@ -400,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ISubscriptionRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISubscriptionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\ISubscriptionRepository.cs",
@@ -412,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "IRoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRoleRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRoleRepository.cs",
@@ -424,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRepositoryBase.cs",
@@ -436,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IRepositoryManager.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryManager.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRepositoryManager.cs",
@@ -448,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ISlotPostRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotPostRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\ISlotPostRepository.cs",
@@ -460,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ISlotRepository.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Intefaces\\ISlotRepository.cs",
@@ -472,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BadmintonMatching\\Pages\\_ViewStart.cshtml",
@@ -484,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BadmintonMatching\\Pages\\_ViewImports.cshtml",
@@ -496,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "WalletServices.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Implements\\WalletServices.cs",
               "RelativeDocumentMoniker": "Services\\Implements\\WalletServices.cs",
