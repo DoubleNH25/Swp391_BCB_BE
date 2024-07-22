@@ -66,5 +66,23 @@ namespace BadmintonMatching.Controllers
             var reportIncomeModel = _userServices.GetIncomeByMonth(startDate, endDate);
             return Ok(new SuccessObject<ReportIncomeModel> { Data = reportIncomeModel, Message = Message.SuccessMsg });
         }
+
+        [HttpPost]
+        [Route("register")]
+        public IActionResult RegistUser(RegisInfomation info)
+        {
+            if (info.Password != info.ReEnterPass)
+            {
+                return Ok(new SuccessObject<object> { Message = "Mật khẩu không trùng khớp" });
+            }
+
+            if (_userServices.IsUserExist(info.Email))
+            {
+                return Ok(new SuccessObject<object> { Message = "Email này đã tồn tại" });
+            }
+
+            var userId = _userServices.RegistUser(info);
+            return Ok(new SuccessObject<object> { Data = new { UserId = userId }, Message = Message.SuccessMsg });
+        }
     }
 }
