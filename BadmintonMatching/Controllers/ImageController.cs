@@ -19,6 +19,15 @@ namespace BadmintonMatching.Controllers
         {
             _postServices = postServices;
         }
-
+        [HttpPost]
+        [Route("images")]
+        public async Task<IActionResult> AddImages(NewImgChat info)
+        {
+            var imgs = new NewImgChat
+            {
+                ImgUrl = await _postServices.HandleImg(info.ImgUrl),
+            };
+            return Ok(imgs);
+        }
     }
 }
