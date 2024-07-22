@@ -99,5 +99,20 @@ namespace BadmintonMatching.Controllers
             }
             return Ok(new SuccessObject<object> { Message = "Khu vực chơi đã được lưu !", Data = true });
         }
+
+        [HttpPost]
+        [Route("{user_id}/playing_level")]
+        public IActionResult AddPlayingLevel(int user_id, NewPlayingLevel info)
+        {
+            if (!_userServices.ExistUserId(user_id))
+            {
+                return Ok(new SuccessObject<object> { Message = "Không tìm thấy người dùng !" });
+            }
+            if (info.Point > 0)
+            {
+                _userServices.AddPlayingLevel(user_id, info);
+            }
+            return Ok(new SuccessObject<object> { Message = "Cấp độ chơi đã được lưu !", Data = true });
+        }
     }
 }
