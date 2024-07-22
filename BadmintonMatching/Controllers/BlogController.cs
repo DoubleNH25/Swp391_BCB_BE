@@ -1,109 +1,94 @@
-﻿using BadmintonMatching.RealtimeHub;
-using Entities.Models;
+﻿using CloudinaryDotNet.Actions;
 using Entities.RequestObject;
 using Entities.ResponseObject;
-using Hangfire;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.SignalR;
 using Services.Interfaces;
 
 namespace BadmintonMatching.Controllers
 {
-    [Route("api/chat")]
+    [Route("api/blogs")]
     [ApiController]
-    public class ChatController : ControllerBase
+    public class BlogController : ControllerBase
     {
-        private readonly IChatServices _chatServices;
-        private readonly IHubContext<ChatHub> _chatHub;
+        private readonly IPostServices _postServices;
         private readonly IUserServices _userServices;
 
-        public ChatController(IChatServices chatServices,
-            IHubContext<ChatHub> chatHub,
-            IUserServices userServices)
+        public BlogController(IPostServices postServices, IUserServices userServices)
         {
-            _chatServices = chatServices;
-            _chatHub = chatHub;
+            _postServices = postServices;
             _userServices = userServices;
         }
 
         [HttpPost]
-        [Route("user/{user_id}/room/{room_id}/join")]
-        public async Task<IActionResult> JoinChatRoom(int user_id, int room_id)
-        {
-            var joinSuccess = await _chatServices.JoinRoom(user_id, room_id);
-
-            if (joinSuccess)
-            {
-                return Ok(new SuccessObject<object> { Data = true, Message = Message.SuccessMsg });
-            }
-            else
-            {
-                return Ok(new SuccessObject<object> { Message = "Không thể tham gia !" });
-            }
-        }
-
-        [HttpGet]
-        [Route("user/{user_id}/rooms")]
-        public async Task<IActionResult> GetJoinedChatRoom(int user_id)
-        {
-            var joinedRooms = await _chatServices.GetRoomOfUser(user_id);
-
-            if (joinedRooms.Count() > 0)
-            {
-                return Ok(new SuccessObject<List<JoinedChatRoom>> { Data = joinedRooms, Message = Message.SuccessMsg });
-            }
-            else
-            {
-                return Ok(new SuccessObject<List<JoinedChatRoom>> { Data = null, Message = "Không có phòng trò chuyện nào được tham gia !" });
-            }
-        }
-
-        [HttpGet]
-        [Route("{room_id}/detail")]
-        public async Task<IActionResult> GetRoomDetail(int room_id, [FromQuery] int pageSize, [FromQuery] int pageNum)
-        {
-            var msgs = await _chatServices.GetRoomDetail(room_id, pageSize, pageNum);
-
-            return Ok(new SuccessObject<List<MessageDetail>> { Data = msgs, Message = Message.SuccessMsg });
-        }
-
-        [HttpPost]
-        [Route("user/{user_id}")]
-        public async Task<IActionResult> SendMessage(int user_id, SendMessageRequest info)
-        {
-            var user = await _chatServices.SendMessage(user_id, info);
-
-            if (user != null)
-            {
-                await _chatHub.Clients.User(info.RoomId.ToString()).SendAsync(info.Message, $"{user.FullName} Image:{user.ImgUrl}");
-                await _chatHub.Clients.All.SendAsync(info.Message, $"{user.FullName} Image:{user.ImgUrl}");
-                return Ok(new SuccessObject<object> { Data = true, Message = Message.SuccessMsg });
-            }
-            else
-            {
-                return Ok(new SuccessObject<object> { Data = null, Message = "Lưu tin nhắn thất bại !" });
-            }
-        }
-
-        [HttpPost]
-        [Route("by_admin/{admin_id}/report/{report_id}")]
-        public async Task<IActionResult> CreateRoomFromReport(int admin_id, int report_id)
+        [Route("create_by/{user_id}")]
+        public async Task<IActionResult> CreateBlog(int user_id, NewBlogInfo info)
         {
             try
             {
-                if (!await _userServices.IsStaff(admin_id))
+                if (!await _userServices.IsStaff(user_id))
                 {
-                    throw new Exception("Bạn không phải quản lí để tạo phòng !");
-                }
-                int roomId = await _chatServices.CreateRoom(admin_id, report_id);
-
-                if (roomId == 0)
-                {
-                    throw new Exception("Tạo phòng thất bại !");
+                    throw new Exception("Bạn không có quyền tạo tin tức !");
                 }
 
-                return Ok(new SuccessObject<object> { Message = Message.SuccessMsg, Data = new { RoomId = roomId } });
+                if (await _postServices.CreateBlog(user_id, info))
+                {
+                    return Ok(new SuccessObject<object> { Message = Message.SuccessMsg, Data = true });
+                }
+                else
+                {
+                    return Ok(new SuccessObject<object> { Message = "Tạo tin tức thất bại !" });
+                }
+            }
+            catch (Exception ex)
+            {
+                return Ok(new SuccessObject<object> { Message = ex.Message });
+            }
+        }
+
+        [HttpGet]
+        [Route("{userId}")]
+        public async Task<IActionResult> GetBlogs(int userId)
+        {
+            var res = await _postServices.GetAllBlogs(userId);
+            return Ok(new SuccessObject<List<BlogInList>> { Data = res, Message = Message.SuccessMsg });
+        }
+
+        [HttpGet]
+        [Route("{blog_id}/details")]
+        public async Task<IActionResult> GetBlogDetail(int blog_id)
+        {
+            try
+            {
+                var detail = await _postServices.GetBlogDetail(blog_id);
+                //detail.CanDelete = _userServices.IsAdminAndStaff(user_id);
+                return Ok(new SuccessObject<BlogDetail> { Data = detail, Message = Message.SuccessMsg });
+            }
+            catch (Exception ex)
+            {
+                return Ok(new SuccessObject<object> { Message = ex.Message });
+            }
+        }
+
+        [HttpDelete]
+        [Route("{blog_id}/by/{user_id}")]
+        public async Task<IActionResult> DeleteBlog(int user_id, int blog_id)
+        {
+            try
+            {
+                if (!_userServices.IsAdminAndStaff(user_id))
+                {
+                    throw new Exception("Bạn không có quyền để xóa !");
+                }
+
+                if (await _postServices.DeleteBlogAsync(blog_id))
+                {
+                    return Ok(new SuccessObject<object> { Message = Message.SuccessMsg, Data = true });
+                }
+                else
+                {
+                    return Ok(new SuccessObject<object> { Message = "Xóa tin tức thất bại !" });
+                }
             }
             catch (Exception ex)
             {
