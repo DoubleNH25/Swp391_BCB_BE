@@ -84,5 +84,20 @@ namespace BadmintonMatching.Controllers
             var userId = _userServices.RegistUser(info);
             return Ok(new SuccessObject<object> { Data = new { UserId = userId }, Message = Message.SuccessMsg });
         }
+
+        [HttpPost]
+        [Route("{user_id}/playing_area")]
+        public IActionResult AddPlayingArea(int user_id, NewPlayingArea info)
+        {
+            if (!_userServices.ExistUserId(user_id))
+            {
+                return Ok(new SuccessObject<object> { Message = "Không tìm thấy người dùng !" });
+            }
+            if (info.ListArea != null)
+            {
+                _userServices.AddPlayingArea(user_id, info);
+            }
+            return Ok(new SuccessObject<object> { Message = "Khu vực chơi đã được lưu !", Data = true });
+        }
     }
 }
