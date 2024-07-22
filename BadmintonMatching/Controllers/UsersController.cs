@@ -114,5 +114,21 @@ namespace BadmintonMatching.Controllers
             }
             return Ok(new SuccessObject<object> { Message = "Cấp độ chơi đã được lưu !", Data = true });
         }
+
+        [HttpPost]
+        [Route("{user_id}/playing_way")]
+        public IActionResult AddPlayingWay(int user_id, NewPlayingWay info)
+        {
+            if (!_userServices.ExistUserId(user_id))
+            {
+                return Ok(new SuccessObject<object> { Message = "Không tìm thấy người dùng !" });
+            }
+            if (info.PlayingWays != null)
+            {
+                _userServices.AddPlayingWay(user_id, info);
+            }
+            return Ok(new SuccessObject<object> { Message = "Cách chơi đã được lưu !", Data = true });
+        }
+
     }
 }
