@@ -1,7 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Swp391_BCB_BE\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\badmintonmatching\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\badmintonmatching\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\entities\\models\\historytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\historytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\entities\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\models\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\islotpostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\islotpostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\iwalletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iwalletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\ipostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ipostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\islotservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\islotservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\ihasingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ihasingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\interfaces\\ichatservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ichatservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\iwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\iwishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\iverifytokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\iverifytokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\islotpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\islotpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\repositories\\intefaces\\islotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\islotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\badmintonmatching\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\badmintonmatching\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|c:\\users\\msi\\desktop\\swp391_badmintoncourt_be\\swp391_bcb_be\\services\\implements\\walletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43703808-C2DF-4AC1-9D11-245B9C4EA15A}|Services\\Services.csproj|solutionrelative:services\\implements\\walletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,12 +106,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 19,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -29,15 +122,363 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:47:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:48:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\CityController.cs",
+              "RelativeToolTip": "BadmintonMatching\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:52:46.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "BadmintonMatching\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:52:46.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\HistoryTransaction.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\HistoryTransaction.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\HistoryTransaction.cs",
+              "RelativeToolTip": "Entities\\Models\\HistoryTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:52:35.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\Comment.cs",
+              "RelativeToolTip": "Entities\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:52:34.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\Slot.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Slot.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Entities\\Models\\Slot.cs",
+              "RelativeToolTip": "Entities\\Models\\Slot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:52:33.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWalletServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IWalletServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IWalletServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IWalletServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IWalletServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:48:11.752Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPostServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IPostServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPostServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IPostServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPostServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:45:14.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISlotPostServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ISlotPostServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISlotPostServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ISlotPostServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISlotPostServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:45:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISlotServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ISlotServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISlotServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\ISlotServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISlotServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:45:12.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHasingServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IHasingServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IHasingServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IHasingServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IHasingServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IChatServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IChatServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IChatServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Interfaces\\IChatServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IChatServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:56.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:52.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVerifyTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IVerifyTokenRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IVerifyTokenRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IVerifyTokenRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IVerifyTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:45.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWalletRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IWalletRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IWalletRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IWalletRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IWalletRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:44.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IWishlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IWishlistRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IWishlistRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IWishlistRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IWishlistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:43.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISubscriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\ISubscriptionRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISubscriptionRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\ISubscriptionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:52.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRoleRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:48.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:49.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:49.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISlotPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotPostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\ISlotPostRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotPostRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\ISlotPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:48.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISlotRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\ISlotRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\ISlotRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:46.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BadmintonMatching\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T10:40:33.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BadmintonMatching\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\BadmintonMatching\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BadmintonMatching\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T10:40:30.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WalletServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Implements\\WalletServices.cs",
+              "RelativeDocumentMoniker": "Services\\Implements\\WalletServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\swp391_BadmintonCourt_BE\\Swp391_BCB_BE\\Services\\Implements\\WalletServices.cs",
+              "RelativeToolTip": "Services\\Implements\\WalletServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:40:05.346Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
