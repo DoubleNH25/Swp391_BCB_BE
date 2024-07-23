@@ -61,5 +61,28 @@ namespace BadmintonMatching.Controllers
             }
 
         }
+        [HttpPut]
+        [Route("update_post")]
+        public async Task<IActionResult> UpdatePost(UpdatetPost post)
+        {
+
+            var res = await _postServices.UpdatePost(post);
+            if (res == -1)
+            {
+                return Ok(new SuccessObject<object> { Message = "Bài đăng không tồn tại !" });
+            }
+            else if (res == 1)
+            {
+                return Ok(new SuccessObject<object> { Data = new { post.idPost }, Message = "Cập nhập thành công !" });
+            }
+            else if (res == 2)
+            {
+                return Ok(new SuccessObject<object> { Message = "Ngày bắt đầu không được phải sau ngày kết thúc của vị trí hiện tại !" });
+            }
+            else
+            {
+                return Ok(new SuccessObject<object> { Message = "Lưu thất bại !" });
+            }
+        }
     }
 }
