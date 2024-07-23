@@ -35,6 +35,31 @@ namespace BadmintonMatching.Controllers
             _repositoryManager = repositoryManager;
 
         }
+        [HttpPost]
+        [Route("create_by/{user_id}")]
+        public async Task<IActionResult> CreatePost(int user_id, NewPostInfo info)
+        {
+            if (!_userServices.ExistUserId(user_id))
+            {
+                Ok(new SuccessObject<object> { Message = "Không thể tìm thấy người dùng !" });
+            }
+            var postId = await _postServices.CreatePost(user_id, info);
+            if (postId == -1)
+            {
+                return Ok(new SuccessObject<object> { Message = "Chuỗi base64 không hợp lệ !" });
+            }
+            else if (postId != 0)
+            {
+                var subIds = await _userServices.GetSubcribeUser(user_id);
+                await _notificationServices.SendNotification(subIds, "Hoạt động mới", "Một người mà bạn đăng kí vừa đăng bài", NotificationType.Post, postId);
 
+                return Ok(new SuccessObject<object> { Data = new { PostId = postId }, Message = Message.SuccessMsg });
+            }
+            else
+            {
+                return Ok(new SuccessObject<object> { Message = "Lưu thất bại !" });
+            }
+
+        }
     }
 }
