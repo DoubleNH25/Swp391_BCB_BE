@@ -84,5 +84,51 @@ namespace BadmintonMatching.Controllers
                 return Ok(new SuccessObject<object> { Message = "Lưu thất bại !" });
             }
         }
+        [HttpGet]
+        [Route("{user_id}/managed_all_post")]
+        public IActionResult GetPostByPlayGround(int user_id)
+        {
+            if (!_userServices.ExistUserId(user_id))
+            {
+                return Ok(new SuccessObject<List<PostInfomation?>> { Message = "Không thể tìm thấy người dùng !" });
+            }
+
+            List<PostInfomation> res = new List<PostInfomation>();
+
+            if (_userServices.IsAdmin(user_id))
+            {
+                res = _postServices.GetManagedPostAdmin(user_id);
+            }
+            else
+            {
+                res = _postServices.GetManagedPost(user_id);
+            }
+
+
+            return Ok(new SuccessObject<List<PostInfomation>> { Data = res, Message = Message.SuccessMsg });
+        }
+        [HttpGet]
+        [Route("{post_id}/details")]
+        public async Task<IActionResult> GetDetailPost(int post_id)
+        {
+            var res = await _postServices.GetPostDetail(post_id);
+            return Ok(new SuccessObject<PostDetail> { Data = res, Message = Message.SuccessMsg });
+        }
+
+        [HttpGet]
+        [Route("{post_id}/status")]
+        public async Task<IActionResult> GetStatuslPost(int post_id)
+        {
+            var res = await _postServices.GetPostStatus(post_id);
+            return Ok(new SuccessObject<List<SlotCheckStatus>> { Data = res, Message = Message.SuccessMsg });
+        }
+
+        [HttpGet]
+        [Route("{user_id}/post_suggestion")]
+        public IActionResult GetListOptionalPost()
+        {
+            var res = _postServices.GetListOptionalPost();
+            return Ok(new SuccessObject<List<PostOptional>> { Data = res, Message = Message.SuccessMsg });
+        }
     }
 }
