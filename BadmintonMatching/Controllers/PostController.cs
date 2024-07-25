@@ -130,5 +130,80 @@ namespace BadmintonMatching.Controllers
             var res = _postServices.GetListOptionalPost();
             return Ok(new SuccessObject<List<PostOptional>> { Data = res, Message = Message.SuccessMsg });
         }
+        [HttpGet]
+        [Route("GetListPost")]
+        public async Task<IActionResult> GetListPost()
+        {
+            var res = await _postServices.GetAllPost();
+            return Ok(new SuccessObject<List<PostOptional>> { Data = res, Message = Message.SuccessMsg });
+        }
+
+        #region List Post at role Admin
+        [HttpGet]
+        [Route("{admin_id}/post")]
+        public IActionResult GetListPostByAdmin(int admin_id)
+        {
+
+            var checkadmin = _userServices.IsAdminAndStaff(admin_id);
+            if (checkadmin)
+            {
+                var res = _postServices.GetListPostByAdmin();
+                return Ok(new SuccessObject<List<ListPostByAdmin>> { Data = res, Message = Message.SuccessMsg });
+            }
+            else
+            {
+
+                return Ok(new SuccessObject<List<ListPostByAdmin?>> { Message = "Not admin" });
+            }
+        }
+        #endregion
+
+        #region Delete Post byAdmin
+        [HttpPut]
+        [Route("{admin_id}/delete/{post_id}")]
+        public async Task<IActionResult> DeletePost(int post_id, int admin_id)
+        {
+            if (!_userServices.IsAdmin(admin_id))
+            {
+                if (!_userServices.IsPostOwner(admin_id, post_id))
+                {
+                    return Ok(new SuccessObject<object> { Message = "Bạn không có quyền xóa" });
+                }
+            }
+
+            var res = await _postServices.DeletePostAsync(post_id);
+            if (!res)
+            {
+
+                return Ok(new SuccessObject<object> { Message = "Bài viết đã có người đặt chổ, bạn cần liên hệ với người đặt để xóa !" });
+            }
+
+            return Ok(res ? new SuccessObject<object> { Data = true, Message = Message.SuccessMsg } : new SuccessObject<object> { Message = "Cập nhật thất bại" });
+        }
+        #endregion
+
+        [HttpGet]
+        [Route("user/{user_id}/joined")]
+        public async Task<IActionResult> GetJoinedPost(int user_id)
+        {
+            List<JoinedPost> res = await _postServices.GetJoined(user_id);
+
+            if (res != null)
+            {
+                return Ok(new SuccessObject<List<JoinedPost>> { Data = res, Message = Message.SuccessMsg });
+            }
+            else
+            {
+                return Ok(new SuccessObject<List<JoinedPost>?> { Message = "Yêu cầu không tồn tại !" });
+            }
+        }
+
+        [HttpGet]
+        [Route("play_ground/{play_ground}")]
+        public async Task<IActionResult> GetPostByPlayGround(string play_ground)
+        {
+            List<PostOptional> res = await _postServices.GetPostByPlayGround(play_ground);
+            return Ok(new SuccessObject<List<PostOptional>> { Data = res, Message = Message.SuccessMsg });
+        }
     }
 }
