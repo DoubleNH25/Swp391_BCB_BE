@@ -16,6 +16,15 @@ namespace BadmintonMatching.Controllers
         {
             _notificationServices = notificationServices;
         }
-
+        [HttpPut]
+        [Route("readed")]
+        public async Task<IActionResult> ReadedNotification(ReadedNoti info)
+        {
+            if (await _notificationServices.ReadedAll(info))
+            {
+                return Ok(new SuccessObject<object> { Data = true, Message = Message.SuccessMsg });
+            }
+            return Ok(new SuccessObject<object> { Message = "Fail to update" });
+        }
     }
 }
