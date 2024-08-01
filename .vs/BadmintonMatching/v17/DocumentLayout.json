@@ -3,48 +3,72 @@
   "WorkspaceRootPath": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\responseobject\\withdrawdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\responseobject\\withdrawdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\responseobject\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\responseobject\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\responseobject\\notificationreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\responseobject\\notificationreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\responseobject\\joinedchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\responseobject\\joinedchatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\responseobject\\historywalletmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\responseobject\\historywalletmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\responseobject\\firebaseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\responseobject\\firebaseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\responseobject\\bandedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\responseobject\\bandedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\requestobject\\newbloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\requestobject\\newbloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\requestobject\\logininformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\requestobject\\logininformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\requestobject\\gettokenfromemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\requestobject\\gettokenfromemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\requestobject\\discartslotparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\requestobject\\discartslotparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\requestobject\\createwithdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\requestobject\\createwithdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\requestobject\\checkavailableslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\requestobject\\checkavailableslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\requestobject\\addreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\requestobject\\addreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\entities\\requestobject\\addcommenttouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8D3E3F-3F14-4472-9F78-4F3F7A89F84D}|Entities\\Entities.csproj|solutionrelative:entities\\requestobject\\addcommenttouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\badmintonmatching\\controllers\\wardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\wardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\badmintonmatching\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|solutionrelative:badmintonmatching\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\walletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\walletservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\transactionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\slotservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\slotservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\slotpostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\slotpostservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\postservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\postservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\hasingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\hasingservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45E23325-F560-4AF7-A5AD-8F85653EA65D}|BadmintonMatching\\BadmintonMatching.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\badmintonmatching\\badmintonmatching.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -74,8 +98,203 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WithdrawDetailResponse.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\WithdrawDetailResponse.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseObject\\WithdrawDetailResponse.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\WithdrawDetailResponse.cs",
+              "RelativeToolTip": "Entities\\ResponseObject\\WithdrawDetailResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:19:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\Reports.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseObject\\Reports.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\Reports.cs",
+              "RelativeToolTip": "Entities\\ResponseObject\\Reports.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:19:38.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationReturn.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\NotificationReturn.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseObject\\NotificationReturn.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\NotificationReturn.cs",
+              "RelativeToolTip": "Entities\\ResponseObject\\NotificationReturn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:19:34.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JoinedChatRoom.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\JoinedChatRoom.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseObject\\JoinedChatRoom.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\JoinedChatRoom.cs",
+              "RelativeToolTip": "Entities\\ResponseObject\\JoinedChatRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:19:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryWalletModel.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\HistoryWalletModel.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseObject\\HistoryWalletModel.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\HistoryWalletModel.cs",
+              "RelativeToolTip": "Entities\\ResponseObject\\HistoryWalletModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:19:01.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirebaseResponseModel.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\FirebaseResponseModel.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseObject\\FirebaseResponseModel.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\FirebaseResponseModel.cs",
+              "RelativeToolTip": "Entities\\ResponseObject\\FirebaseResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:18:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BandedUsers.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\BandedUsers.cs",
+              "RelativeDocumentMoniker": "Entities\\ResponseObject\\BandedUsers.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\BandedUsers.cs",
+              "RelativeToolTip": "Entities\\ResponseObject\\BandedUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:18:52.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewBlogInfo.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\NewBlogInfo.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestObject\\NewBlogInfo.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\NewBlogInfo.cs",
+              "RelativeToolTip": "Entities\\RequestObject\\NewBlogInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:18:14.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginInformation.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\LoginInformation.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestObject\\LoginInformation.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\LoginInformation.cs",
+              "RelativeToolTip": "Entities\\RequestObject\\LoginInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:17:50.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetTokenFromEmail.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\GetTokenFromEmail.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestObject\\GetTokenFromEmail.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\GetTokenFromEmail.cs",
+              "RelativeToolTip": "Entities\\RequestObject\\GetTokenFromEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:17:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiscartSlotParam.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\DiscartSlotParam.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestObject\\DiscartSlotParam.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\DiscartSlotParam.cs",
+              "RelativeToolTip": "Entities\\RequestObject\\DiscartSlotParam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:17:40.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateWithdrawRequest.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\CreateWithdrawRequest.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestObject\\CreateWithdrawRequest.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\CreateWithdrawRequest.cs",
+              "RelativeToolTip": "Entities\\RequestObject\\CreateWithdrawRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:17:03.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheckAvailableSlot.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\CheckAvailableSlot.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestObject\\CheckAvailableSlot.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\CheckAvailableSlot.cs",
+              "RelativeToolTip": "Entities\\RequestObject\\CheckAvailableSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:16:46.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddReport.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\AddReport.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestObject\\AddReport.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\AddReport.cs",
+              "RelativeToolTip": "Entities\\RequestObject\\AddReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:16:41.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCommentToUser.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\AddCommentToUser.cs",
+              "RelativeDocumentMoniker": "Entities\\RequestObject\\AddCommentToUser.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\AddCommentToUser.cs",
+              "RelativeToolTip": "Entities\\RequestObject\\AddCommentToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:15:19.676Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -126,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "PostController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\PostController.cs",
@@ -134,85 +353,11 @@
               "RelativeToolTip": "BadmintonMatching\\Controllers\\PostController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:08:58.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:08:58.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SlotServices.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\SlotServices.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\SlotServices.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\SlotServices.cs",
-              "RelativeToolTip": "Repositories\\Implements\\SlotServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:40:07.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TransactionServices.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\TransactionServices.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\TransactionServices.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\TransactionServices.cs",
-              "RelativeToolTip": "Repositories\\Implements\\TransactionServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:40:15.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WalletServices.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\WalletServices.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\WalletServices.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\WalletServices.cs",
-              "RelativeToolTip": "Repositories\\Implements\\WalletServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:43:41.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JwtServices.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\JwtServices.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\JwtServices.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\JwtServices.cs",
-              "RelativeToolTip": "Repositories\\Implements\\JwtServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:39:48.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HasingServices.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\HasingServices.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\HasingServices.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\HasingServices.cs",
-              "RelativeToolTip": "Repositories\\Implements\\HasingServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:39:40.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PostServices.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\PostServices.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\PostServices.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\PostServices.cs",
-              "RelativeToolTip": "Repositories\\Implements\\PostServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:39:54.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "WardController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\WardController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\WardController.cs",
@@ -225,43 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SlotPostServices.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\SlotPostServices.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\SlotPostServices.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\SlotPostServices.cs",
-              "RelativeToolTip": "Repositories\\Implements\\SlotPostServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:40:01.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VNPayService.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\VNPayService.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\VNPayService.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\VNPayService.cs",
-              "RelativeToolTip": "Repositories\\Implements\\VNPayService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:43:36.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\UserServices.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implements\\UserServices.cs",
-              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\UserServices.cs",
-              "RelativeToolTip": "Repositories\\Implements\\UserServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:40:24.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "BadmintonMatching.csproj",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj",
               "RelativeDocumentMoniker": "BadmintonMatching\\BadmintonMatching.csproj",
@@ -273,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "WalletController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\WalletController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\WalletController.cs",
@@ -285,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\UsersController.cs",
@@ -297,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\TransactionController.cs",
@@ -309,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "BlogController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\BlogController.cs",
