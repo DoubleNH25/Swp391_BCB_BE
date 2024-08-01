@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Entities;
+using Entities.Models;
+using Repositories.Intefaces;
 
 namespace Repositories.Implements
 {
-    internal class HistoryWalletRepository
+    internal class HistoryWalletRepository : RepositoryBase<HistoryWallet>, IHistoryWalletRepository
     {
+        public HistoryWalletRepository(DataContext dataContext) : base(dataContext)
+        {
+
+        }
     }
 }
