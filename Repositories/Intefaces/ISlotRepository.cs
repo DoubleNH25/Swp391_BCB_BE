@@ -2,7 +2,7 @@
 
 namespace Repositories.Intefaces
 {
-    public interface ISlotRepository : IRepositoryBase<Slot>
+    public interface ITransactionRepository : IRepositoryBase<Transaction>
     {
     }
 }

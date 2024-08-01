@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\iverifytokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\iverifytokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\iuserratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\iuserratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\itypepostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\itypepostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\islotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\islotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\islotpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\islotpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\intefaces\\ihistorywalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\intefaces\\ihistorywalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|d:\\k\u1EF3 5\\github\\swp391_bcb_be\\repositories\\implements\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF6E1C9-06D2-4CB6-A714-9A7BE3978E99}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implements\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -154,8 +198,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWalletRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IWalletRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IWalletRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IWalletRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IWalletRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:36:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVerifyTokenRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IVerifyTokenRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IVerifyTokenRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IVerifyTokenRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IVerifyTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:36:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IUserRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:36:06.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRatingRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IUserRatingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IUserRatingRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IUserRatingRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IUserRatingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:35:59.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITypePostRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\ITypePostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\ITypePostRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\ITypePostRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\ITypePostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:35:54.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISlotRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\ISlotRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\ISlotRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:35:15.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISlotPostRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotPostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\ISlotPostRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\ISlotPostRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\ISlotPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:35:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRoleRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRoleRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:34:58.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRepositoryBase.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:34:27.897Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -206,7 +367,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IRepositoryManager.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:34:34.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IHistoryWalletRepository.cs",
+              "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IHistoryWalletRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Intefaces\\IHistoryWalletRepository.cs",
+              "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Intefaces\\IHistoryWalletRepository.cs",
+              "RelativeToolTip": "Repositories\\Intefaces\\IHistoryWalletRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:33:49.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "TransactionRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\TransactionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\TransactionRepository.cs",
@@ -214,12 +401,11 @@
               "RelativeToolTip": "Repositories\\Implements\\TransactionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:23:15.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:23:15.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "TypePostRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\TypePostRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\TypePostRepository.cs",
@@ -227,12 +413,11 @@
               "RelativeToolTip": "Repositories\\Implements\\TypePostRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:23:06.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:23:06.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "UserRatingRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\UserRatingRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\UserRatingRepository.cs",
@@ -240,12 +425,11 @@
               "RelativeToolTip": "Repositories\\Implements\\UserRatingRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:25:05.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:25:05.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\UserRepository.cs",
@@ -253,12 +437,11 @@
               "RelativeToolTip": "Repositories\\Implements\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:25:12.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:25:12.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "VerifyTokenRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\VerifyTokenRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\VerifyTokenRepository.cs",
@@ -266,25 +449,24 @@
               "RelativeToolTip": "Repositories\\Implements\\VerifyTokenRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:25:19.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:25:19.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "WalletRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\WalletRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\WalletRepository.cs",
               "ToolTip": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\WalletRepository.cs",
               "RelativeToolTip": "Repositories\\Implements\\WalletRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T07:25:25.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "SlotRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\SlotRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\SlotRepository.cs",
@@ -292,12 +474,11 @@
               "RelativeToolTip": "Repositories\\Implements\\SlotRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:22:58.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:22:58.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "SlotPostRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\SlotPostRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\SlotPostRepository.cs",
@@ -305,12 +486,11 @@
               "RelativeToolTip": "Repositories\\Implements\\SlotPostRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:22:51.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:22:51.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "RoleRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\RoleRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\RoleRepository.cs",
@@ -318,12 +498,11 @@
               "RelativeToolTip": "Repositories\\Implements\\RoleRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:22:45.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:22:45.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "RepositoryManager.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\RepositoryManager.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\RepositoryManager.cs",
@@ -331,12 +510,11 @@
               "RelativeToolTip": "Repositories\\Implements\\RepositoryManager.cs",
               "ViewState": "AQIAAIoAAAAAAAAAAAAAAIoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:22:37.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:22:37.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\RepositoryBase.cs",
@@ -344,12 +522,11 @@
               "RelativeToolTip": "Repositories\\Implements\\RepositoryBase.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAqwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:22:30.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:22:30.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "PostRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\PostRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\PostRepository.cs",
@@ -357,12 +534,11 @@
               "RelativeToolTip": "Repositories\\Implements\\PostRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAcwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:22:22.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:22:22.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "HistoryWalletRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\HistoryWalletRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\HistoryWalletRepository.cs",
@@ -370,12 +546,11 @@
               "RelativeToolTip": "Repositories\\Implements\\HistoryWalletRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:23:21.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:23:21.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "HistoryTransactionRepository.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Repositories\\Implements\\HistoryTransactionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implements\\HistoryTransactionRepository.cs",
@@ -383,12 +558,11 @@
               "RelativeToolTip": "Repositories\\Implements\\HistoryTransactionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:22:16.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T07:22:16.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "WithdrawDetailResponse.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\WithdrawDetailResponse.cs",
               "RelativeDocumentMoniker": "Entities\\ResponseObject\\WithdrawDetailResponse.cs",
@@ -400,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Reports.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\Reports.cs",
               "RelativeDocumentMoniker": "Entities\\ResponseObject\\Reports.cs",
@@ -412,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "NotificationReturn.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\NotificationReturn.cs",
               "RelativeDocumentMoniker": "Entities\\ResponseObject\\NotificationReturn.cs",
@@ -424,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "JoinedChatRoom.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\JoinedChatRoom.cs",
               "RelativeDocumentMoniker": "Entities\\ResponseObject\\JoinedChatRoom.cs",
@@ -436,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "HistoryWalletModel.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\HistoryWalletModel.cs",
               "RelativeDocumentMoniker": "Entities\\ResponseObject\\HistoryWalletModel.cs",
@@ -448,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "FirebaseResponseModel.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\FirebaseResponseModel.cs",
               "RelativeDocumentMoniker": "Entities\\ResponseObject\\FirebaseResponseModel.cs",
@@ -460,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "BandedUsers.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\ResponseObject\\BandedUsers.cs",
               "RelativeDocumentMoniker": "Entities\\ResponseObject\\BandedUsers.cs",
@@ -472,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "NewBlogInfo.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\NewBlogInfo.cs",
               "RelativeDocumentMoniker": "Entities\\RequestObject\\NewBlogInfo.cs",
@@ -484,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "LoginInformation.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\LoginInformation.cs",
               "RelativeDocumentMoniker": "Entities\\RequestObject\\LoginInformation.cs",
@@ -496,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "GetTokenFromEmail.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\GetTokenFromEmail.cs",
               "RelativeDocumentMoniker": "Entities\\RequestObject\\GetTokenFromEmail.cs",
@@ -508,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "DiscartSlotParam.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\DiscartSlotParam.cs",
               "RelativeDocumentMoniker": "Entities\\RequestObject\\DiscartSlotParam.cs",
@@ -520,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "CreateWithdrawRequest.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\CreateWithdrawRequest.cs",
               "RelativeDocumentMoniker": "Entities\\RequestObject\\CreateWithdrawRequest.cs",
@@ -532,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "CheckAvailableSlot.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\CheckAvailableSlot.cs",
               "RelativeDocumentMoniker": "Entities\\RequestObject\\CheckAvailableSlot.cs",
@@ -544,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "AddReport.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\AddReport.cs",
               "RelativeDocumentMoniker": "Entities\\RequestObject\\AddReport.cs",
@@ -556,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "AddCommentToUser.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\Entities\\RequestObject\\AddCommentToUser.cs",
               "RelativeDocumentMoniker": "Entities\\RequestObject\\AddCommentToUser.cs",
@@ -568,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "PostController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\PostController.cs",
@@ -580,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "WardController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\WardController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\WardController.cs",
@@ -592,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 42,
               "Title": "BadmintonMatching.csproj",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\BadmintonMatching.csproj",
               "RelativeDocumentMoniker": "BadmintonMatching\\BadmintonMatching.csproj",
@@ -604,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 43,
               "Title": "WalletController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\WalletController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\WalletController.cs",
@@ -616,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\UsersController.cs",
@@ -628,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 45,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\TransactionController.cs",
@@ -640,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "BlogController.cs",
               "DocumentMoniker": "D:\\K\u1EF3 5\\Github\\Swp391_BCB_BE\\BadmintonMatching\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "BadmintonMatching\\Controllers\\BlogController.cs",

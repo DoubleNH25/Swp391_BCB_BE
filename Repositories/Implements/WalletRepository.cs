@@ -1,14 +1,8 @@
-﻿using Entities;
-using Entities.Models;
-using Repositories.Intefaces;
+﻿using Entities.Models;
 
-namespace Repositories.Implements
+namespace Repositories.Intefaces
 {
-    internal class WalletRepository : RepositoryBase<Wallet>, IWalletRepository
+    public interface IHistoryTransactionRepository : IRepositoryBase<HistoryTransaction>
     {
-        public WalletRepository(DataContext dataContext) : base(dataContext)
-        {
-
-        }
     }
 }

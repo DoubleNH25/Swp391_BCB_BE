@@ -10,4 +10,3 @@ namespace Repositories.Intefaces
         void Update(T entity);
         void Delete(T entity);
     }
-}
