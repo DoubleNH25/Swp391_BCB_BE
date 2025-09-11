@@ -1,114 +1,144 @@
-﻿using Entities.Models;
 using Entities.Models;
 using Entities.RequestObject;
 using Entities.ResponseObject;
 using Microsoft.EntityFrameworkCore;
-using Repositories.Intefaces;
+using Repositories.Interfaces;   // ✅ PascalCase cho namespace
 using Services.Interfaces;
 
-namespace Services.Implements
+namespace Services.Implements  // ✅ PascalCase cho namespace
 {
-    public class SlotServices : ISlotServices
+    // ✅ Class PascalCase, đúng convention
+    public class SlotService : ISlotService
     {
+        // ✅ Private field: _camelCase
         private readonly IRepositoryManager _repositoryManager;
 
+        // ❌ Sai: private field không có "_" và PascalCase
+        // private readonly IRepositoryManager RepositoryManager;
 
-        public SlotServices(IRepositoryManager repositoryManager)
+        // ✅ Constructor PascalCase
+        public SlotService(IRepositoryManager repositoryManager)
         {
             _repositoryManager = repositoryManager;
-
         }
 
-        public void Delete(List<int> lsSlot)
+        // ✅ Method PascalCase, parameter camelCase
+        public void Delete(List<int> slotIds)
         {
-            //    foreach (var slotId in lsSlot)
-            //    {
-            //        var slot = _repositoryManager.Slot.FindByCondition(x => x.Id == slotId && !x.IsDeleted, true).FirstOrDefault();
-            //        if(slot != null)
-            //        {
-            //            _repositoryManager.Slot.Delete(slot);
-            //        }
-            //    }
-            //    _repositoryManager.SaveAsync().Wait();
+            // ✅ Local variable camelCase
+            foreach (var slotId in slotIds)
+            {
+                var slot = _repositoryManager.Slot
+                    .FindByCondition(x => x.Id == slotId && !x.IsDeleted, true)
+                    .FirstOrDefault();
+
+                if (slot != null)
+                {
+                    _repositoryManager.Slot.Delete(slot);
+                }
+            }
+
+            _repositoryManager.SaveAsync().Wait();
         }
 
-        public List<SlotReturnInfo> GetAvailable(CheckAvailableSlot info)
+        // ❌ Sai: Method viết thường + parameter PascalCase
+        // public List<SlotReturnInfo> getavailable(CheckAvailableSlot Info)
+
+        // ✅ Method PascalCase + parameter camelCase
+        public List<SlotReturnInfo> GetAvailable(CheckAvailableSlot request)
         {
-            var res = new List<SlotReturnInfo>();
+            var results = new List<SlotReturnInfo>();
 
-            //var postSubcript = _repositoryManager.Post
-            //    .FindByCondition(x => x.Id == info.PostId, true)
-            //    .Include(x => x.Slot.Where(y => !y.IsDeleted)).FirstOrDefault();
+            var post = _repositoryManager.Post
+                .FindByCondition(x => x.Id == request.PostId, true)
+                .Include(x => x.Slot.Where(y => !y.IsDeleted))
+                .FirstOrDefault();
 
-            //if (postSubcript != null)
-            //{
-            //    if(postSubcript.UserIdTo == info.UserId)
-            //    {
-            //        throw new FieldAccessException();
-            //    }
-            //    var lsAvaiInfo = new List<SlotInfo>();
-            //    foreach (var infoSlot in postSubcript.SlotsInfo.Split(';'))
-            //    {
-            //        if (infoSlot != string.Empty)
-            //        {
-            //            lsAvaiInfo.Add(new SlotInfo(infoSlot));
-            //        }
-            //    }
-            //    foreach (var inputInfo in info.SlotsInfo)
-            //    {
-            //        var inputDate = inputInfo.DateRegis.ToString("dd/MM/yyyy");
-            //        var createSlot = lsAvaiInfo
-            //            .Where(x => x.StartTime.Value.ToString("dd/MM/yyyy") == inputDate)
-            //            .Select(x => x.AvailableSlot).FirstOrDefault();
-            //        if(createSlot == 0)
-            //        {
-            //            res.Add(new SlotReturnInfo
-            //            {
-            //                Date = inputDate,
-            //                Message = $"Date not found in post",
-            //                SlotIds = null
-            //            });
-            //            continue;
-            //        }
-            //        var slotSubcripted = postSubcript.Slot.Where(x => x.ContentSlot == inputDate).Count();
-            //        if (createSlot - slotSubcripted - inputInfo.NumSlots >= 0)
-            //        {
-            //            var slotIds = new List<int>();
-            //            for (var i = 0; i < inputInfo.NumSlots; i++)
-            //            {
-            //                var slot = new Slot
-            //                {
-            //                    ContentSlot = inputInfo.DateRegis.ToString("dd/MM/yyyy"),
-            //                    IdPost = info.PostId,
-            //                    UserId = info.UserId,
-            //                    Price = lsAvaiInfo.Where(x => x.StartTime.Value.ToString("dd/MM/yyyy") == inputDate).FirstOrDefault().Price
-            //                };
-            //                _repositoryManager.Slot.Create(slot);
-            //                _repositoryManager.SaveAsync().Wait();
-            //                slotIds.Add(slot.Id);
-            //            }
-            //            if (slotIds.Count() > 0)
-            //            {
-            //                res.Add(new SlotReturnInfo
-            //                {
-            //                    Date = inputDate,
-            //                    Message = "Success to create",
-            //                    SlotIds = slotIds
-            //                });
-            //            }
-            //        }
-            //        else
-            //        {
-            //            res.Add(new SlotReturnInfo
-            //            {
-            //                Date = inputDate,
-            //                Message = $"Not enough slot for subcript(Available slot is: {createSlot - slotSubcripted})",
-            //                SlotIds = null
-            //            });
-            //        }
-            //    }
-            //}
-            return res;
+            if (post == null)
+            {
+                return results;
+            }
+
+            if (post.UserIdTo == request.UserId)
+            {
+                throw new FieldAccessException();
+            }
+
+            var availableInfos = new List<SlotInfo>();
+            foreach (var slotInfo in post.SlotsInfo.Split(';'))
+            {
+                if (!string.IsNullOrEmpty(slotInfo))
+                {
+                    availableInfos.Add(new SlotInfo(slotInfo));
+                }
+            }
+
+            foreach (var inputInfo in request.SlotsInfo)
+            {
+                var inputDate = inputInfo.DateRegis.ToString("dd/MM/yyyy");
+                var createdSlot = availableInfos
+                    .Where(x => x.StartTime.Value.ToString("dd/MM/yyyy") == inputDate)
+                    .Select(x => x.AvailableSlot)
+                    .FirstOrDefault();
+
+                if (createdSlot == 0)
+                {
+                    results.Add(new SlotReturnInfo
+                    {
+                        Date = inputDate,
+                        Message = "Date not found in post",
+                        SlotIds = null
+                    });
+                    continue;
+                }
+
+                var subscribedCount = post.Slot
+                    .Where(x => x.ContentSlot == inputDate)
+                    .Count();
+
+                if (createdSlot - subscribedCount - inputInfo.NumSlots >= 0)
+                {
+                    var slotIds = new List<int>();
+
+                    for (var i = 0; i < inputInfo.NumSlots; i++)
+                    {
+                        var slot = new Slot
+                        {
+                            ContentSlot = inputDate,
+                            IdPost = request.PostId,
+                            UserId = request.UserId,
+                            Price = availableInfos
+                                .Where(x => x.StartTime.Value.ToString("dd/MM/yyyy") == inputDate)
+                                .FirstOrDefault().Price
+                        };
+
+                        _repositoryManager.Slot.Create(slot);
+                        _repositoryManager.SaveAsync().Wait();
+                        slotIds.Add(slot.Id);
+                    }
+
+                    if (slotIds.Any())
+                    {
+                        results.Add(new SlotReturnInfo
+                        {
+                            Date = inputDate,
+                            Message = "Success to create",
+                            SlotIds = slotIds
+                        });
+                    }
+                }
+                else
+                {
+                    results.Add(new SlotReturnInfo
+                    {
+                        Date = inputDate,
+                        Message = $"Not enough slot (Available: {createdSlot - subscribedCount})",
+                        SlotIds = null
+                    });
+                }
+            }
+
+            return results;
         }
     }
 }
